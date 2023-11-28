@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	
+	<link href="https://cdn.rawgit.com/mistic100/Photo-Sphere-Viewer/3.1.0/dist/photo-sphere-viewer.min.css" rel="stylesheet">
+</head>
+
+<style type="text/css">
+	
+	*{
+		margin: 0px;
+		padding: 0px;
+	}
+
+	iframe{
+
+    	width: 100%;
+    	height: 100vh;
+	
+	}
+
+
+    #photosphere { height:600px; width:100%; margin: 0 auto }
+
+
+</style>
+<body>
+	
+	<div id="svgPrueba"></div>
+	<div id="photosphere"> </div>
+
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+	<!---JS Mio--->
+	
+	<!--
+	<script type="text/javascript" src="https://www.eltiempo.com/infografias/2023/11/metro/js/funcion.js?d9"></script>
+	-->
+
+	<!---JS NORMAN--->
+
+	<!--
+	<script type="text/javascript" src="https://www.eltiempo.com/infografias/2023/11/metro/js/index.js?dd9"></script>
+	-->
+
+	<script src="https://ajax.googleapis.com/ajax/libs/threejs/r70/three.min.js"> </script>
+	<script src="https://cdn.rawgit.com/mistic100/Photo-Sphere-Viewer/3.1.0/dist/photo-sphere-viewer.min.js"> </script>
+
+	<script type="text/javascript">
+
+		setTimeout(function () {
+		      var PSV = new PhotoSphereViewer({
+		        panorama: `https://www.eltiempo.com/infografias/2023/11/metro/slider/`,
+		        container: 'photosphere',
+		        loading_img: 'Aquí va la URL del icono',
+		        navbar: 'autorotate zoom download fullscreen',
+		        caption: 'EL TIEMPO Casa Editorial 2023 - Maquetación Carlos Bustos',
+		        default_fov: 100,
+		        mousewheel: true,
+		        size: {
+		          height: 562,
+		        },
+		      });
+		}, 500);
+		
+
+	</script>
+
+</body>
+</html>

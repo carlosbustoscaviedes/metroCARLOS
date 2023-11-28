@@ -1,0 +1,116 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+/*----contenedor 1-----*/
+.contenedor_principal_inicio{
+
+
+	width: 100%;
+	height: 100vh;
+
+}
+
+.fondo_inicio_mtr{
+
+	width: 100%;
+	height: 90%;
+	background-color: #D9DAD0;
+}
+
+.linea_naranja_mtr{
+
+	width: 100%;
+	height: 5%;
+	max-height: 30px;
+	background-color: #FC6E53;
+	
+}
+
+.puerta_metro{
+
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 650px;
+}
+
+
+
+
+/*----contenedor 2-----*/
+.contenedor_puertas_abiertas{
+
+	width: 100%;
+	display: table;
+	background-color: #D9DAD0;
+}
+
+.puertas_abiertas {
+    width: 23%;
+    position: relative;
+    cursor: pointer;
+}
+
+.contenedor_puertas {
+    position: fixed;
+    left: 0;
+    right: 0;
+    width: 100%;
+    margin: auto;
+    display: table;
+    background-color: #D9DAD0;
+}
+
+
+.alinear_izquierda {
+    float: left;
+    left: 26.9%;
+}
+
+.alinear_derecha {
+   
+    float: right;
+    left: -26.9%;
+}
+
+.titulo_metro_bogota {
+    color: #292621;
+    text-align: center;
+    font-family: "ardoise-std";
+    font-size: 2.5vw;
+    position: absolute;
+    margin: 20% auto;
+    left: 0px;
+    right: 0px;
+    font-weight: bold;
+    line-height: 87%;
+    z-index: 0;
+    cursor: pointer;
+}
+
+
+.estaciones_metro{
+
+
+	width: 100%;
+}
+
+
+
+/*----------------------------linea de paradas---------------------------------*/
+.estaciones_metro{
+
+	width: 100%;
+	display: table;
+	position: absolute;
+	top: 0px;
+	background-color: #fff;
+	padding: 40px;
+	box-sizing: border-box;
+}
+/*----------------------------linea de paradas---------------------------------*/

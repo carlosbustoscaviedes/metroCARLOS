@@ -1,0 +1,90 @@
+[
+
+		{
+			"id":"0",
+			"video3D" : "https://www.eltiempo.com/infografias/2023/11/videos_metro/nomales/patioTaller/VIDEO_PATIO_TALLER_B.mp4?final009",
+			"fotos" : [
+				{"foto"  : "https://www.eltiempo.com/infografias/2023/11/metro/slider/patio_taller/patio1.jpg"},
+				{"foto"  : "https://www.eltiempo.com/infografias/2023/11/metro/slider/patio_taller/patio2.jpg"},
+				{"foto"  : "https://www.eltiempo.com/infografias/2023/11/metro/slider/patio_taller/patio3.jpg"},
+				{"foto"  : "https://www.eltiempo.com/infografias/2023/11/metro/slider/patio_taller/patio4.jpg"},
+				{"foto"  : "https://www.eltiempo.com/infografias/2023/11/metro/slider/patio_taller/patio5.jpg"},
+				{"foto"  : "https://www.eltiempo.com/infografias/2023/11/metro/slider/patio_taller/patio6.jpg"},
+				{"foto"  : "https://www.eltiempo.com/infografias/2023/11/metro/slider/patio_taller/patio7.jpg"},
+				{"foto"  : "https://www.eltiempo.com/infografias/2023/11/metro/slider/patio_taller/patio8.jpg"},
+				{"foto"  : "https://www.eltiempo.com/infografias/2023/11/metro/slider/patio_taller/patio9.jpg"},
+				{"foto" : "https://www.eltiempo.com/infografias/2023/11/metro/slider/patio_taller/patio10.jpg"}
+			],
+			"video" : "https://www.eltiempo.com/infografias/2023/11/videos_metro/nomales/patioTaller/VIDEO_PATIO_TALLER_B.mp4?final009",
+			"foto360" : "https://www.eltiempo.com/infografias/2023/11/metro/slider/patio_taller/360_patio_taller.jpg"
+
+		},
+		{
+			"id":"1",
+			"video3D" : "https://www.eltiempo.com/infografias/2023/11/videos_metro/nomales/estacion1/VIDEO_MAPA_HINCADO.mp4?final009",
+			"fotos" : [
+			  {"foto" : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion1/hincado1.jpg"},
+			  {"foto" : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion1/hincado2.jpg"},
+			  {"foto" : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion1/hincado3.jpg"},
+			  {"foto" : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion1/hincado4.jpg"},
+			  {"foto" : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion1/hincado5.jpg"},
+			  {"foto" : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion1/hincado6.jpg"}
+			],
+			"video" : "https://www.eltiempo.com/infografias/2023/11/videos_metro/nomales/estacion1/VIDEO_MAPA_HINCADO.mp4?final009",
+			"foto360" : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion7/360_pulpo.jpg"
+		},
+		{
+			"id":"2",
+			"video3D": "https://www.eltiempo.com/infografias/2023/11/videos_metro/nomales/estacion7/VIDEO_MAPA_PULPO.mp4?final009",
+			"fotos" : [
+				{"foto"   : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion7/pulpo1.jpg"},
+				{"foto"   : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion7/pulpo2.jpg"},
+				{"foto"   : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion7/pulpo3.jpg"},
+				{"foto"   : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion7/pulpo4.jpg"},
+				{"foto"   : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion7/pulpo5.jpg"}
+			],
+			"video"   : "https://www.eltiempo.com/infografias/2023/11/videos_metro/nomales/estacion7/VIDEO_MAPA_PULPO.mp4?final009",
+			"foto360" : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion7/360_pulpo.jpg"
+		},
+		{
+			"id":"3",
+			"video3D": "https://www.eltiempo.com/infografias/2023/11/videos_metro/nomales/patioTaller/VIDEO_PATIO_TALLER_B.mp4?final009",
+			"fotos" : [
+				{"foto"  : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion13/Calle-26-1.jpg"},
+				{"foto"  : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion13/Calle-26-2.jpg"},
+				{"foto"  : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion13/Calle-26-3.jpg"},
+				{"foto"  : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion13/Calle-26-4.jpg"},
+				{"foto"  : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion13/Calle-26-5.jpg"}
+			],
+			"video" : "https://www.eltiempo.com/infografias/2023/11/videos_metro/nomales/patioTaller/VIDEO_PATIO_TALLER_B.mp4?final009",
+			"foto360" : "https://www.eltiempo.com/infografias/2023/11/metro/slider/patio_taller/360_patio_taller.jpg"
+		},
+		{
+			"id":"4",
+			"video3D" : "https://www.eltiempo.com/infografias/2023/11/videos_metro/nomales/estacion16/VIDEO_MAPA_CALLE_72.mp4?final009",
+			"fotos" : [
+
+				{"foto" : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion16/calle_72_1.jpg"},
+				{"foto" : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion16/calle_72_2.jpg"},
+				{"foto" : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion16/calle_72_3.jpg"},
+				{"foto" : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion16/calle_72_4.jpg"},
+				{"foto" : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion16/calle_72_5.jpg"},
+				{"foto" : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion16/calle_72_6.jpg"}
+			],
+			"video" : "https://www.eltiempo.com/infografias/2023/11/videos_metro/nomales/estacion16/VIDEO_MAPA_CALLE_72.mp4?final009",
+			"foto360" : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion16/360_calle_72.jpg"
+		},
+		{
+			"id":"5",
+			"video3D" : "https://www.eltiempo.com/infografias/2023/11/videos_metro/nomales/colaManiobras/heroes.mp4?final009",
+			"fotos" : [
+				{"foto" : "https://www.eltiempo.com/infografias/2023/11/metro/slider/colaManiobras/heroes1.jpg"},
+				{"foto" : "https://www.eltiempo.com/infografias/2023/11/metro/slider/colaManiobras/heroes2.jpg"}
+			],
+			"video" : "https://www.eltiempo.com/infografias/2023/11/videos_metro/nomales/colaManiobras/heroes.mp4?final009",
+			"foto360" : "https://www.eltiempo.com/infografias/2023/11/metro/slider/estacion7/360_pulpo.jpg"
+		}
+	
+
+
+]

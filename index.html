@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+
+	<link rel="stylesheet" href="https://use.typekit.net/tyg2ewk.css">
+	<link rel="stylesheet" href="./css/carlos.css">
+
+</head>
+<body>
+	
+
+
+	<!--pantalla puertas abiertas--->
+	<div class="contenedor_puertas_abiertas">
+		<div class="contenedor_puertas">
+
+			<div class="contenedor_titulo_metro">
+				<img src="./img/cabezote.svg" class="titulo_metro_bogota" />
+			</div>
+
+			<img src="./img/puerta_lateral_izquierda.svg"  class="puertas_abiertas alinear_izquierda">
+			<img src="./img/puerta_lateral_derecha.svg"    class="puertas_abiertas alinear_derecha">
+		
+		</div>
+	</div>
+
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+	<script type="text/javascript">
+
+
+		let num = 0;
+		$(".alinear_izquierda, .alinear_derecha").click(function(event) {
+			
+			if(num == 0){
+
+				$(".alinear_izquierda").animate({ 'left' : '0'}, 400);
+				$(".alinear_derecha").animate({ 'left' : '0'}, 400);
+
+				num = 1;
+				
+				
+				
+
+			}else{
+
+				$(".alinear_izquierda").animate({ 'left' : '-31%'}, 400);
+				$(".alinear_derecha").animate({ 'left' : '31%'}, 400);
+
+				
+
+				num = 0;
+			}
+			
+
+		});
+	
+
+
+	</script>
+</body>
+</html>
